@@ -1,0 +1,88 @@
+
+#EXTM3U
+
+#EXTINF:-1,UK:VH1
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8458.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: YESTERDAY
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8457.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Watch
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8456.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: VIVA the Hits!
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8455.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: VH1 Classic
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8454.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: TV3
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8453.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: True TV
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8452.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: True Movies 2
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8451.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: True Movies 1
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8450.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: True Entertainment
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8449.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8448.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: TLC
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8447.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Tiny Pop
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8446.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: TG4
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8445.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: TCM
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8444.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Syfy
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8443.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Spike
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8442.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: SONY MOVIES
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8441.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Thrill
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8440.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports F1
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8439.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports 5HD
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8438.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports 5
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8437.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports 4HD
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8436.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports 4
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8435.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports 3HD
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8434.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports 3
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8433.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports 2HD
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8432.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports 2
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8431.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports 1HD
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8430.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sports 1
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8429.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Sport News HQ
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8428.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Showcase
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8427.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Select
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8426.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Premiere Movies
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8425.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: SKY NEWS HD
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8424.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky MoviesGreats HD
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8423.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Movies Sci-Fi
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8422.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Movies Premiere  1
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8421.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Movies Drama
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8420.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Movies Comedy
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8419.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Living (UK)
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8418.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,UK: Sky Family
+plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8417.ts&amp;streamtype=TSDOWNL
+# goldscreen
