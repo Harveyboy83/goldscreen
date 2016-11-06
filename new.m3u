@@ -1,4 +1,6 @@
-﻿http://91.121.104.43:8000/get.php?username=idou&password=idou&type=m3u
+﻿#EXTM3U
+
+http://91.121.104.43:8000/get.php?username=idou&password=idou&type=m3u
 
 http://esiptv.tn:7500/get.php?username=ge159&password=ge159&type=m3u
 
