@@ -1,87 +1,103 @@
 #EXTM3U
-
-#EXTINF:-1,UK:VH1
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8458.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: YESTERDAY
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8457.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Watch
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8456.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: VIVA the Hits!
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8455.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: VH1 Classic
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8454.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: TV3
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8453.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: True TV
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8452.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: True Movies 2
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8451.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: True Movies 1
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8450.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: True Entertainment
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8449.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8448.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: TLC
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8447.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Tiny Pop
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8446.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: TG4
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8445.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: TCM
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8444.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Syfy
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8443.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Spike
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8442.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: SONY MOVIES
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8441.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Thrill
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8440.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports F1
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8439.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports 5HD
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8438.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports 5
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8437.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports 4HD
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8436.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports 4
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8435.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports 3HD
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8434.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports 3
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8433.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports 2HD
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8432.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports 2
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8431.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports 1HD
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8430.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sports 1
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8429.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Sport News HQ
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8428.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Showcase
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8427.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Select
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8426.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Premiere Movies
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8425.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: SKY NEWS HD
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8424.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky MoviesGreats HD
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8423.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Movies Sci-Fi
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8422.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Movies Premiere  1
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8421.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Movies Drama
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8420.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Movies Comedy
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8419.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Living (UK)
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8418.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,UK: Sky Family
-plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/basil/basil/8417.ts&amp;streamtype=TSDOWNL
-# goldscreen
+#EXTINF:-1 tvg-id="21" tvg-name="BHT 1" tvg-logo="images/bht1.png" group-title="Bosanski",BHT 1 - BHT 1
+http://stream6.dyndns.tv:8888/live?channelId=21&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="65" tvg-name="FTV" tvg-logo="images/ftv.png" group-title="Bosanski",FTV - FTV
+http://alphaone.dyndns.tv:1293/live?channelId=65&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="104" tvg-name="RTS 1" tvg-logo="images/rts1.png" group-title="Srpski",RTS 1 - RTS 1
+http://stream.narodnatv.info:80/live?channelId=104&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="105" tvg-name="RTS 2" tvg-logo="images/rts2.png" group-title="Srpski",RTS 2 - RTS 2
+http://freeiptv2search.dyndns.tv:2801/live?channelId=105&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="73" tvg-name="TV 1" tvg-logo="images/tv1.png" group-title="Bosanski",TV 1 - TV 1
+http://alphaone.dyndns.tv:1293/live?channelId=73&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="106" tvg-name="Prva" tvg-logo="images/prva.png" group-title="Srpski",Prva - Prva
+http://exstrimer.dyndns.biz:5300/live?channelId=106&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="107" tvg-name="Prva Plus" tvg-logo="images/prvaplus.png" group-title="Srpski",Prva Plus - Prva Plus
+http://srv2.narodnatv.info:80/live?channelId=107&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="67" tvg-name="Nova SR" tvg-logo="images/novars.png" group-title="Srpski",Nova SR - Nova SR
+http://alphaone.dyndns.tv:1293/live?channelId=67&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="57" tvg-name="Nova TV" tvg-logo="images/novatv.png" group-title="Hrvatski",Nova TV - Nova TV
+http://sangajstream.dyndns.biz:80/live?channelId=57&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="58" tvg-name="RTL" tvg-logo="images/rtl.png" group-title="Hrvatski",RTL - RTL
+http://sangajstream.dyndns.biz:80/live?channelId=58&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="59" tvg-name="RTL 2" tvg-logo="images/rtl2.png" group-title="Hrvatski",RTL 2 - RTL 2
+http://sangajstream.dyndns.biz:80/live?channelId=59&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="60" tvg-name="Doma" tvg-logo="images/doma.png" group-title="Hrvatski",Doma - Doma
+http://srv2.narodnatv.info:80/live?channelId=60&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="273" tvg-name="OBN BiH" tvg-logo="/noicon.png" group-title="Bosanski",OBN BiH - OBN BiH
+http://freeiptv2search.dyndns.tv:2801/live?channelId=273&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="129" tvg-name="Pink" tvg-logo="images/pink.png" group-title="Pink Media",Pink - Pink
+http://sall1.homelinux.net:80/live?channelId=129&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="126" tvg-name="PINK M" tvg-logo="images/pinkm.png" group-title="Pink Media",PINK M - PINK M
+http://sall1.homelinux.net:80/live?channelId=126&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="23" tvg-name="Pink BH" tvg-logo="images/pinkbih.png" group-title="Bosanski",Pink BH - Pink  BH
+http://sall1.homelinux.net:80/live?channelId=23&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="176" tvg-name="MTV Igman" tvg-logo="images/igman.png" group-title="Bosanski",MTV Igman - MTV Igman
+http://alphaone.dyndns.tv:1293/live?channelId=176&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="127" tvg-name="PINK FILM" tvg-logo="images/pinkfilm.png" group-title="Filmovi & Serije",PINK FILM - PINK FILM
+http://alphaone.dyndns.tv:1293/live?channelId=127&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="39" tvg-name="Pink Premium" tvg-logo="images/pinkpremium.png" group-title="Pink Media",Pink Premium - Pink Premium
+http://freeiptv2search.dyndns.tv:2801/live?channelId=39&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="26" tvg-name="Pink Action 2" tvg-logo="images/pinkaction2.png" group-title="Pink Media",Pink Action 2 - Pink Action 2
+http://srv2.narodnatv.info:80/live?channelId=26&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="27" tvg-name="Pink Action 3" tvg-logo="images/pinkaction3.png" group-title="Pink Media",Pink Action 3 - Pink Action 3
+http://srv2.narodnatv.info:80/live?channelId=27&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="4" tvg-name="Kanal 6" tvg-logo="images/kanal6.png" group-title="Bosanski",Kanal 6 - Kanal 6
+http://iptvbh.dyndns.org:89/live?channelId=4&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="177" tvg-name="Pink Music" tvg-logo="images/pinkmusic.png" group-title="Pink Media",Pink Music - Pink Music
+http://stream.narodnatv.info:80/live?channelId=177&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="24" tvg-name="Pink Folk" tvg-logo="images/pinkfolk1.png" group-title="Pink Media",Pink Folk - Pink Folk
+http://srv2.narodnatv.info:80/live?channelId=24&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="77" tvg-name="Arena Sport 1 SR" tvg-logo="http://gigahost.homelinux.net:88/LOGO/Arena%20sport1.jpg" group-title="Sportski",Arena Sport 1 SR - Arena Sport 1 SR
+http://sangajstream.dyndns.biz:80/live?channelId=77&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="79" tvg-name="Arena Sport 2 SR" tvg-logo="http://gigahost.homelinux.net:88/LOGO/arenasport2.jpg" group-title="Sportski",Arena Sport 2 SR - Arena Sport 2 SR
+http://alphaone.dyndns.tv:1293/live?channelId=79&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="81" tvg-name="Arena Sport 3 SR" tvg-logo="http://gigahost.homelinux.net:88/LOGO/arena%20sport3.jpg" group-title="Sportski",Arena Sport 3 SR - Arena Sport 3 SR
+http://alphaone.dyndns.tv:1293/live?channelId=81&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="83" tvg-name="Arena Sport 4 SR" tvg-logo="http://gigahost.homelinux.net:88/LOGO/arena%20sport%204%20.jpg" group-title="Sportski",Arena Sport 4 SR - Arena Sport 4 SR
+http://alphaone.dyndns.tv:1293/live?channelId=83&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="85" tvg-name="ARENA SPORT 5 SR" tvg-logo="http://gigahost.homelinux.net:88/LOGO/Arena%20sport%205.jpg" group-title="Sportski",ARENA SPORT 5 SR - ARENA SPORT 5 SR
+http://alphaone.dyndns.tv:1293/live?channelId=85&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="78" tvg-name="Arena Sport HD 1 CRO" tvg-logo="http://gigahost.homelinux.net:88/LOGO%20SMANJENI/arenasport1hr.png" group-title="Sportski",Arena Sport HD 1 CRO - Arena Sport HD 1 CRO
+http://stream6.dyndns.tv:8888/live?channelId=78&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="80" tvg-name="Arena Sport HD 2 CRO" tvg-logo="http://gigahost.homelinux.net:88/LOGO%20SMANJENI/arena2hrhd.png" group-title="Sportski",Arena Sport HD 2 CRO - Arena Sport HD 2 CRO
+http://alphaone.dyndns.tv:1293/live?channelId=80&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="82" tvg-name="ARENA SPORT 3 HD CRO" tvg-logo="http://gigahost.homelinux.net:88/LOGO%20SMANJENI/arena3hr.png" group-title="Sportski",ARENA SPORT 3 HD CRO - ARENA SPORT 3 HD CRO
+http://stream6.dyndns.tv:8888/live?channelId=82&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="84" tvg-name="ARENA SPORT 4 HD CRO" tvg-logo="http://gigahost.homelinux.net:88/LOGO%20SMANJENI/arena4hr.png" group-title="Sportski",ARENA SPORT 4 HD CRO - ARENA SPORT 4 HD CRO
+http://freeiptv2search.dyndns.tv:2801/live?channelId=84&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="162" tvg-name="RTV Novi Pazar" tvg-logo="/noicon.png" group-title="Bosanski",RTV Novi Pazar - RTV Novi Pazar
+http://sall1.homelinux.net:80/live?channelId=162&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="75" tvg-name="NTV IC Kakanj" tvg-logo="http://gigahost.homelinux.net:88/LOGO/mini%20ultra.png" group-title="Bosanski",NTV IC Kakanj - NTV IC Kakanj
+http://alphaone.dyndns.tv:1293/live?channelId=75&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="30" tvg-name="Pink Extra" tvg-logo="http://gigahost.homelinux.net:88/LOGO/Pink%20Extra.jpg" group-title="Pink Media",Pink Extra - Pink Extra
+http://stream6.dyndns.tv:8888/live?channelId=30&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="134" tvg-name="Slon Extra" tvg-logo="http://gigahost.homelinux.net:88/LOGO/TV_Slon_Extra_logo.jpg" group-title="Bosanski",Slon Extra - Slon Extra
+http://exstrimer.dyndns.biz:5300/live?channelId=134&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="133" tvg-name="TV TK" tvg-logo="http://gigahost.homelinux.net:88/LOGO/TK%20TV.jpg" group-title="Bosanski",TV TK - TV TK
+http://exstrimer.dyndns.biz:5300/live?channelId=133&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="245" tvg-name="Sandzak TV" tvg-logo="/noicon.png" group-title="Bosanski",Sandzak TV - Sandzak TV
+http://iptvbh.dyndns.org:89/live?channelId=245&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="35" tvg-name="Pink Movies 2" tvg-logo="http://gigahost.homelinux.net:88/LOGO/Pink%20Movies2.jpg" group-title="Pink Media",Pink Movies 2 - Pink Movies 2
+http://exstrimer.dyndns.biz:5300/live?channelId=35&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="36" tvg-name="Pink Movies 3" tvg-logo="http://gigahost.homelinux.net:88/LOGO/Pink%20movies%203.jpg" group-title="Pink Media",Pink Movies 3 - Pink Movies 3
+http://srv2.narodnatv.info:80/live?channelId=36&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="40" tvg-name="Pink Reality" tvg-logo="http://gigahost.homelinux.net:88/LOGO/pink-reality.jpg" group-title="Pink Media",Pink Reality - Pink Reality
+http://srv2.narodnatv.info:80/live?channelId=40&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="95" tvg-name="Discovery ID" tvg-logo="http://gigahost.homelinux.net:88/LOGO/Disc%20ID.jpg" group-title="Dokumantarci",Discovery ID - Discovery ID
+http://stream243.magiptv.net:99/live?channelId=95&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="102" tvg-name="National Geographic" tvg-logo="http://gigahost.homelinux.net:88/LOGO/nat-geo.jpg" group-title="Dokumantarci",National Geographic - National Geographic
+http://alphaone.dyndns.tv:1293/live?channelId=102&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="275" tvg-name="RTK 1 Sat (Kosovo)" tvg-logo="/noicon.png" group-title="Tring Alb",RTK 1 Sat (Kosovo) - RTK 1 Sat (Kosovo)
+http://stream6.dyndns.tv:8888/live?channelId=275&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="458" tvg-name="Pink Fight Network" tvg-logo="/noicon.png" group-title="Pink Media",Pink Fight Network - Pink Fight
+http://sangajstream.dyndns.biz:80/live?channelId=458&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="459" tvg-name="Pink Serije" tvg-logo="/noicon.png" group-title="Pink Media",Pink Serije - Pink Serije
+http://iptvbh.dyndns.org:89/live?channelId=459&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="460" tvg-name="Pink World Cinema" tvg-logo="/noicon.png" group-title="Pink Media",Pink World Cinema - Pink World Cinema
+http://exstrimer.dyndns.biz:5300/live?channelId=460&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="461" tvg-name="Pink Show" tvg-logo="/noicon.png" group-title="Pink Media",Pink Show - Pink Show
+http://srv2.narodnatv.info:80/live?channelId=461&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="462" tvg-name="Pink Kuvar" tvg-logo="/noicon.png" group-title="Pink Media",Pink Kuvar - Pink Kuvar
+http://exstrimer.dyndns.biz:5300/live?channelId=462&uid=734&deviceUser=hasko&devicePass=hasko
+#EXTINF:-1 tvg-id="463" tvg-name="Pink Super Kids" tvg-logo="/noicon.png" group-title="Pink Media",Pink Super Kids - Pink Super Kids
+http://sangajstream.dyndns.biz:80/live?channelId=463&uid=734&deviceUser=hasko&devicePass=hasko
